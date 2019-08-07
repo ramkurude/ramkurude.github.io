@@ -1,2 +1,0 @@
-# ramkurude.github.io
-website
